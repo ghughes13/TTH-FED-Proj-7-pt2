@@ -1,3 +1,7 @@
+body {
+  background: black;
+}
+
 .item-a {
   grid-area: header;
 }
